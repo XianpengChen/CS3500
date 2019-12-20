@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09141adf-b190-4630-996a-5fda2969d216" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1VE5l6a9IxBs7fGMb6qDs6qdt7Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MusicEditor/test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\28609\IdeaProjects\CS3500\MusicEditor\test" />
+      <recent name="C:\Users\28609\IdeaProjects\CS3500\MusicEditor\src" />
+      <recent name="C:\Users\28609\IdeaProjects\CS3500\MusicEditor" />
+      <recent name="C:\Users\28609\IdeaProjects\CS3500\turtleSource\test" />
+      <recent name="C:\Users\28609\IdeaProjects\CS3500\turtleSource\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Controller1Test">
+    <configuration name="MusicEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MusicEditor" />
+      <module name="CS3500" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompositeViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS3500" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="view" />
+      <option name="MAIN_CLASS_NAME" value="view.CompositeViewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Controller1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS3500" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.Controller1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MidiViewImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS3500" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="view" />
+      <option name="MAIN_CLASS_NAME" value="view.MidiViewImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicModel1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS3500" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.MusicModel1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Controller1Test" />
+        <item itemvalue="JUnit.MusicModel1Test" />
+        <item itemvalue="JUnit.CompositeViewTest" />
+        <item itemvalue="JUnit.MidiViewImplTest" />
+        <item itemvalue="Application.MusicEditor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09141adf-b190-4630-996a-5fda2969d216" name="Default Changelist" comment="" />
+      <created>1576805561326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576805561326</updated>
+      <workItem from="1576805564074" duration="7592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2476" y="188" key="#FreecellControllerTest" timestamp="1576807694655">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state x="2476" y="188" key="#FreecellControllerTest/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576807694655" />
+    <state x="2473" y="180" key="#Project_Structure" timestamp="1576805598077">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state x="2473" y="180" key="#Project_Structure/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576805598077" />
+    <state x="2673" y="380" width="412" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576807098978">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state x="2673" y="380" width="412" height="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576807098978" />
+    <state x="2662" y="277" key="FileChooserDialogImpl" timestamp="1576807936827">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state x="2662" y="277" key="FileChooserDialogImpl/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576807936827" />
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom" timestamp="1576811845643">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576811845643" />
+    <state width="1878" height="263" key="GridCell.Tab.0.center" timestamp="1576811845643">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.center/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576811845643" />
+    <state width="1878" height="263" key="GridCell.Tab.0.left" timestamp="1576811845643">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.left/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576811845643" />
+    <state width="1878" height="263" key="GridCell.Tab.0.right" timestamp="1576811845643">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.right/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576811845643" />
+    <state x="2361" y="96" key="SettingsEditor" timestamp="1576807970583">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state x="2361" y="96" key="SettingsEditor/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576807970583" />
+    <state x="2603" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576806924753">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state x="2603" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576806924753" />
+    <state x="2992" y="362" key="extract.method.dialog" timestamp="1576812425203">
+      <screen x="1920" y="0" width="1920" height="1060" />
+    </state>
+    <state x="2992" y="362" key="extract.method.dialog/1920.0.1920.1060/0.0.1920.1040@1920.0.1920.1060" timestamp="1576812425203" />
+  </component>
+</project>
